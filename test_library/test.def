@@ -1,0 +1,12 @@
+LIBRARY   test
+EXPORTS
+    teststring
+    add
+    reverse
+    free_string
+    create_vector
+    add_vector
+    scale_vector
+    inverse_vector
+    dot_product
+    cross_product
